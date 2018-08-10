@@ -12,3 +12,7 @@
 ```php
 php artisan sms
 ```
+
+## Note
+
+- Le code se trouve dans le fichier [/app/Console/Commands/Sms.php](https://github.com/gallib/textobox/blob/master/app/Console/Commands/Sms.php)
